@@ -1,0 +1,74 @@
+# Reading D:/xilinx/tcl/vsim/pref.tcl 
+# do {TBWPIC24.fdo} 
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim XE III vcom 6.4b Compiler 2008.11 Nov 15 2008
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package std_logic_unsigned
+# -- Compiling entity rom32x24
+# -- Compiling architecture rom32x24_arch of rom32x24
+# Model Technology ModelSim XE III vcom 6.4b Compiler 2008.11 Nov 15 2008
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package std_logic_unsigned
+# -- Compiling entity progcnt
+# -- Compiling architecture behavioral of progcnt
+# Model Technology ModelSim XE III vcom 6.4b Compiler 2008.11 Nov 15 2008
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package std_logic_unsigned
+# -- Compiling entity pc_update
+# -- Compiling architecture behavioral of pc_update
+# Model Technology ModelSim XE III vcom 6.4b Compiler 2008.11 Nov 15 2008
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package std_logic_unsigned
+# -- Compiling entity mux2v4
+# -- Compiling architecture behavioral of mux2v4
+# Model Technology ModelSim XE III vcom 6.4b Compiler 2008.11 Nov 15 2008
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package std_logic_unsigned
+# -- Compiling entity mux2v16
+# -- Compiling architecture behavioral of mux2v16
+# Model Technology ModelSim XE III vcom 6.4b Compiler 2008.11 Nov 15 2008
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package std_logic_unsigned
+# -- Compiling entity file_regs
+# -- Compiling architecture behavioral of file_regs
+# Model Technology ModelSim XE III vcom 6.4b Compiler 2008.11 Nov 15 2008
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package std_logic_unsigned
+# -- Compiling entity datamem
+# -- Compiling architecture behavioral of datamem
+# Model Technology ModelSim XE III vcom 6.4b Compiler 2008.11 Nov 15 2008
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package std_logic_unsigned
+# -- Compiling entity ctrl
+# -- Compiling architecture behavioral of ctrl
+# Model Technology ModelSim XE III vcom 6.4b Compiler 2008.11 Nov 15 2008
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package std_logic_unsigned
+# -- Compiling entity alu
+# -- Compiling architecture behavioral of alu
+# ** Error: ALU.vhd(74): (vcom-1079) Range left bound type Integer is not the same as right bound type ieee.std_logic_1164.std_ulogic.
+# ** Error: ALU.vhd(74): near ")": expecting ';'
+# ** Error: ALU.vhd(108): VHDL Compiler exiting
+# ** Error: D:/xilinx/win32xoem/vcom failed.
+# Error in macro ./TBWPIC24.fdo line 13
+# D:/xilinx/win32xoem/vcom failed.
+#     while executing
+# "vcom -explicit  -93 "ALU.vhd""
